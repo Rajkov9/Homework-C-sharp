@@ -1,0 +1,14 @@
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll

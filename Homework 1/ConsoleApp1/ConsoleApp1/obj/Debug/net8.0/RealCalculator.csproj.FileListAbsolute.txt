@@ -1,0 +1,14 @@
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\RealCalculator.exe
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\RealCalculator.deps.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\RealCalculator.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\RealCalculator.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\RealCalculator.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\RealCalculator.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\RealCalculator.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\RealCalculator.dll

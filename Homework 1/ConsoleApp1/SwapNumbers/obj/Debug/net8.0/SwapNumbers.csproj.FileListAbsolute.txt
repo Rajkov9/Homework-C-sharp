@@ -1,0 +1,28 @@
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Qinshift\C# Homework Basic\Homework 1\ConsoleApp1\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll
