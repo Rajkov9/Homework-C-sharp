@@ -1,0 +1,14 @@
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Homework 2\Code\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll
