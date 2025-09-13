@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{251D54D2-68A6-4FDD-B3FE-0EB9C2857D57}|Task2\\Task2.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251D54D2-68A6-4FDD-B3FE-0EB9C2857D57}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\domain\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB98E50-7484-4765-A37C-2634912BEE4A}|EmployeesApp\\EmployeesApp.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\employeesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB98E50-7484-4765-A37C-2634912BEE4A}|EmployeesApp\\EmployeesApp.csproj|solutionrelative:employeesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|solutionrelative:domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\domain\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|solutionrelative:domain\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\domain\\models\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|solutionrelative:domain\\models\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\domain\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD0A82-87B6-453A-820A-3C978FF105AF}|Domain\\Domain.csproj|solutionrelative:domain\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|solutionrelative:enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\inheritance\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\enums\\dayofweekenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|solutionrelative:enums\\dayofweekenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F90563-E6AC-4E36-8DBC-CC39E3F8A032}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\inheritance\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|c:\\users\\hristijan\\desktop\\qinshift\\c# basic homework\\homework 5\\code\\inheritance\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738985BA-8620-4403-A77D-BE9836927D93}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SalesPerson.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\SalesPerson.cs",
+              "RelativeToolTip": "Domain\\Models\\SalesPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:16:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "Domain\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:08:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:56:52.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:14:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inheritance.csproj",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Inheritance.csproj",
+              "RelativeDocumentMoniker": "Inheritance\\Inheritance.csproj",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Inheritance.csproj",
+              "RelativeToolTip": "Inheritance\\Inheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T17:16:48.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\EmployeesApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\EmployeesApp\\Program.cs",
+              "RelativeToolTip": "EmployeesApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:50:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T05:11:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CEO.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\CEO.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CEO.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\CEO.cs",
+              "RelativeToolTip": "Domain\\Models\\CEO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T05:07:57.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Manager.cs",
+              "RelativeToolTip": "Domain\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:33:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contractor.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Contractor.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Contractor.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Domain\\Models\\Contractor.cs",
+              "RelativeToolTip": "Domain\\Models\\Contractor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:35:51.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DayOfWeekEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\DayOfWeekEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\DayOfWeekEnum.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\DayOfWeekEnum.cs",
+              "RelativeToolTip": "Enums\\DayOfWeekEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:48:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:46:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Dog.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:07:59.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Cat.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:46:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\Qinshift\\C# Basic Homework\\Homework 5\\Code\\Inheritance\\Models\\Animal.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:17:37.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

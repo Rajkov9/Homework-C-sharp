@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F629E1-8BFA-4454-9C05-846BD9C41034}|RacingApp\\RacingApp.csproj|c:\\users\\hristijan\\desktop\\new folder\\racingapp\\racingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F629E1-8BFA-4454-9C05-846BD9C41034}|RacingApp\\RacingApp.csproj|solutionrelative:racingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50F53C-A4D3-4EFD-9620-41E65DCB449B}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\new folder\\racingapp\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50F53C-A4D3-4EFD-9620-41E65DCB449B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50F53C-A4D3-4EFD-9620-41E65DCB449B}|Domain\\Domain.csproj|c:\\users\\hristijan\\desktop\\new folder\\racingapp\\domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50F53C-A4D3-4EFD-9620-41E65DCB449B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\Domain\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\Domain\\Models\\Driver.cs",
+              "RelativeToolTip": "Domain\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:29:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Domain\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:29:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\RacingApp\\Program.cs",
+              "RelativeDocumentMoniker": "RacingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Hristijan\\Desktop\\New folder\\RacingApp\\RacingApp\\Program.cs",
+              "RelativeToolTip": "RacingApp\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:26:02.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
